@@ -1,0 +1,26 @@
+#surefire
+#Fri May 27 16:59:30 EEST 2016
+testClassesDirectory=F\:\\For-work\\my-work-for-job\\Git\\maven-basic-repository-005\\Maven007.Basic.Dependency-Scope\\target\\test-classes
+classPathUrl.4=E\:\\Documents and Settings\\Admin\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.3=E\:\\Documents and Settings\\Admin\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.2=E\:\\Documents and Settings\\Admin\\.m2\\repository\\org\\apache\\commons\\commons-lang3\\3.4\\commons-lang3-3.4.jar
+useManifestOnlyJar=true
+classPathUrl.1=F\:\\For-work\\my-work-for-job\\Git\\maven-basic-repository-005\\Maven007.Basic.Dependency-Scope\\target\\classes
+reportsDirectory=F\:\\For-work\\my-work-for-job\\Git\\maven-basic-repository-005\\Maven007.Basic.Dependency-Scope\\target\\surefire-reports
+classPathUrl.0=F\:\\For-work\\my-work-for-job\\Git\\maven-basic-repository-005\\Maven007.Basic.Dependency-Scope\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=F\:\\For-work\\my-work-for-job\\Git\\maven-basic-repository-005\\Maven007.Basic.Dependency-Scope\\src\\test\\java
+surefireClassPathUrl.1=E\:\\Documents and Settings\\Admin\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=E\:\\Documents and Settings\\Admin\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.voytovych.maven.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=F\:\\For-work\\my-work-for-job\\Git\\maven-basic-repository-005\\Maven007.Basic.Dependency-Scope\\.surefire-9FC342F1D1769D55DCA48712B2EB367A8B56160E
+includes0=**/Test*.java
+childDelegation=false
